@@ -116,8 +116,7 @@ int main(int argc, char *argv[]) {
 
 ## OUTPUT
 
-<img width="1600" height="768" alt="WhatsApp Image 2026-05-09 at 11 55 06" src="https://github.com/user-attachments/assets/a38a111d-5316-4d22-8d3d-a1585c45edeb" />
-
+![alt text](image.png)
 
 
 # RESULT:
